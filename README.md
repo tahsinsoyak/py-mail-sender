@@ -21,9 +21,9 @@ Buradan erişimi açık yapmanız gerekmektedir.
 
 # Kaynaklar
 
-https://docs.python.org/3/library/smtplib.html
-https://docs.python.org/3/library/ssl.html
-https://docs.python.org/3/library/email.html
+- https://docs.python.org/3/library/smtplib.html
+- https://docs.python.org/3/library/ssl.html
+- https://docs.python.org/3/library/email.html
 
 
 
@@ -51,9 +51,9 @@ You should on your access.
 
 # Resources
 
-https://docs.python.org/3/library/smtplib.html
-https://docs.python.org/3/library/ssl.html
-https://docs.python.org/3/library/email.html
+- https://docs.python.org/3/library/smtplib.html
+- https://docs.python.org/3/library/ssl.html
+- https://docs.python.org/3/library/email.html
 
 
 
