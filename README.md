@@ -27,7 +27,7 @@ Buradan erişimi açık yapmanız gerekmektedir.
 
 
 
-## Mail sending App in Python [ENG]
+# Mail sending App in Python [ENG]
 
 Sending email using email,ssl,smtplib modules.
 getpass used just for hiding password.
