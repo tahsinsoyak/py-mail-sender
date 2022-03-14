@@ -9,7 +9,6 @@ Farklı modüller kollanarak mail yolluyoruz.
 
 getpass sadece şifre gizlemek için kullanılmıştır.
 
-
 ## Gmail Hesap İzni
 (Rastgele bir email kurup kullanmanızı öneriyorum)
 
@@ -47,7 +46,6 @@ You should on your access.
 
 
 ![img6](https://user-images.githubusercontent.com/54424377/156216195-3c15e6ab-a9b6-4888-be11-8464350972a4.jpg)
-
 
 # Resources
 
